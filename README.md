@@ -27,7 +27,7 @@
 - Containerized 100% of platform services (**Docker**), cutting deployment time by 80%.  
 - Automated testing (**pytest/Postman**) and CI/CD pipelines (**GitHub Actions**).  
 
-### **Full-Stack Developer** @ [Veronalabs](), Tallinn *(Feb 2022 - Aug 2023)*  
+### **Full-Stack Developer** @ [Veronalabs](https://github.com/veronalabs), Tallinn *(Feb 2022 - Aug 2023)*  
 - Delivered 20+ features for **WordPress plugins** (WP-Statistics, WP-SMS).  
 - Optimized 50+ **MySQL queries**, reducing latency.  
 
