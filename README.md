@@ -21,7 +21,7 @@
 ---
 
 ## 💼 **Professional Experience**  
-### **Software Engineer** @ [EC Lab](), Turin *(Aug 2024 - Present)*  
+### **Software Engineer** @ [EC Lab](https://github.com/energycenterlab), Turin *(Aug 2024 - Present)*  
 - Built a **semantic web co-simulation engine** (SMS-FMI ontology) using GraphDB.  
 - Developed **FastAPI services** for energy-model integration, improving interoperability.  
 - Containerized 100% of platform services (**Docker**), cutting deployment time by 80%.  
