@@ -45,7 +45,7 @@
 - Architected cloud infrastructure (**Docker/GitHub Actions**), slashing deployment time by 40%.  
 - Processed **100+ daily alerts** with 95% accuracy.  
 
-*(Explore more in [Repositories ↓](#))*  
+*(Explore more in [Repositories ↓](https://github.com/rezathriii?tab=repositories))*  
 
 ---
 
