@@ -31,7 +31,7 @@
 - Delivered 20+ features for **WordPress plugins** (WP-Statistics, WP-SMS).  
 - Optimized 50+ **MySQL queries**, reducing latency.  
 
-*(See [CV](#) for full details.)*  
+*(See [CV](https://rezathriii.wixsite.com/portfolio) for full details.)*  
 
 ---
 
