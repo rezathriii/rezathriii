@@ -2,7 +2,7 @@
 ### **Software Engineer | Python & AWS Specialist | Open-Source Contributor**  
 
 📍 **Based in Turin, Italy**  
-📫 **Contact:** [taheri.reza94@gmail.com](mailto:taheri.reza94@gmail.com) | [LinkedIn](https://linkedin.com/in/rezathrili)  
+📫 **Contact:** [taheri.reza94@gmail.com](mailto:taheri.reza94@gmail.com) | [LinkedIn](https://linkedin.com/in/rezathriii)  
 
 🔭 **Currently working at:** [EC Lab](), designing scalable semantic web solutions and CI/CD pipelines.  
 🌱 **Learning:** Advanced Kubernetes, Distributed Systems Architecture.  
