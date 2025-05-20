@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Reza Taheri  
 ### **Software Engineer | Python & AWS Specialist | Open-Source Contributor**  
 
-📍 **Based in Turin, Italy** | 🌍 **Open to relocation (Netherlands)**  
+📍 **Based in Turin, Italy**  
 📫 **Contact:** [taheri.reza94@gmail.com](mailto:taheri.reza94@gmail.com) | [LinkedIn](https://linkedin.com/in/rezathrili)  
 
 🔭 **Currently working at:** [EC Lab](), designing scalable semantic web solutions and CI/CD pipelines.  
@@ -41,10 +41,6 @@
 - Achieved **99.9% uptime** via AWS/DigitalOcean and **Docker** containerization.  
 - Automated deployments with **GitHub Actions**, reducing failures by 30%.  
 
-### **Paris Office Energy Optimization** *(Python/EnergyPlus/FMI)*  
-- Modeled 50+ scenarios to **cut energy use by 20%** for a Paris office complex.  
-- Built real-time **data pipelines** (Grafana/InfluxDB/MQTT).  
-
 ### **Climate Watch** *(Flask/MQTT/DigitalOcean)*  
 - Architected cloud infrastructure (**Docker/GitHub Actions**), slashing deployment time by 40%.  
 - Processed **100+ daily alerts** with 95% accuracy.  
@@ -54,14 +50,11 @@
 ---
 
 ## 📚 **Education**  
-- **MSc ICT Engineering** – Politecnico di Torino  
-- **BSc Computer Engineering** – Jahrom University  
+- **MSc. ICT Engineering** – Politecnico di Torino  
+- **BSc. Computer Engineering** – Jahrom University  
 
 ---
 
 ## 📬 **Let’s Connect!**  
 - [LinkedIn](https://linkedin.com/in/rezathrili)  
 - [Email](mailto:taheri.reza94@gmail.com)  
-- [Portfolio](#) *(optional link)*  
-
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=rezathrili.rezathrili) *(optional)*  
