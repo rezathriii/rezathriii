@@ -1,16 +1,67 @@
-## Hi there 👋
+# 👋 Hi, I'm Reza Taheri  
+### **Software Engineer | Python & AWS Specialist | Open-Source Contributor**  
 
-<!--
-**rezathriii/rezathriii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Based in Turin, Italy** | 🌍 **Open to relocation (Netherlands)**  
+📫 **Contact:** [taheri.reza94@gmail.com](mailto:taheri.reza94@gmail.com) | [LinkedIn](https://linkedin.com/in/rezathrili)  
 
-Here are some ideas to get you started:
+🔭 **Currently working at:** [EC Lab](), designing scalable semantic web solutions and CI/CD pipelines.  
+🌱 **Learning:** Advanced Kubernetes, Distributed Systems Architecture.  
+💡 **Passionate about:** Developer tooling, energy-efficient systems, and automating workflows.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Technical Skills**  
+- **Languages:** Python (Advanced), JavaScript, PHP, SQL  
+- **Backend:** FastAPI, Flask, RESTful APIs, Microservices  
+- **Cloud & DevOps:** AWS (EC2/S3), Docker, CI/CD (GitHub Actions), Linux  
+- **Testing:** pytest, Postman, PHPUnit  
+- **Frontend:** React, jQuery, Tailwind CSS  
+- **Data & Tools:** GraphDB, MySQL, InfluxDB, Grafana, MQTT  
+
+---
+
+## 💼 **Professional Experience**  
+### **Software Engineer** @ [EC Lab](), Turin *(Aug 2024 - Present)*  
+- Built a **semantic web co-simulation engine** (SMS-FMI ontology) using GraphDB.  
+- Developed **FastAPI services** for energy-model integration, improving interoperability.  
+- Containerized 100% of platform services (**Docker**), cutting deployment time by 80%.  
+- Automated testing (**pytest/Postman**) and CI/CD pipelines (**GitHub Actions**).  
+
+### **Full-Stack Developer** @ Veronalabs, Tallinn *(Feb 2022 - Aug 2023)*  
+- Delivered 20+ features for **WordPress plugins** (WP-Statistics, WP-SMS).  
+- Optimized 50+ **MySQL queries**, reducing latency.  
+
+*(See [CV](#) for full details.)*  
+
+---
+
+## 🚀 **Highlighted Projects**  
+### **Net-SkyPlot** *(Open-Source | React/Python/AWS)*  
+- Led a team of 5 to build a **GNSS planning platform** with React (Tailwind CSS) and Flask.  
+- Achieved **99.9% uptime** via AWS/DigitalOcean and **Docker** containerization.  
+- Automated deployments with **GitHub Actions**, reducing failures by 30%.  
+
+### **Paris Office Energy Optimization** *(Python/EnergyPlus/FMI)*  
+- Modeled 50+ scenarios to **cut energy use by 20%** for a Paris office complex.  
+- Built real-time **data pipelines** (Grafana/InfluxDB/MQTT).  
+
+### **Climate Watch** *(Flask/MQTT/DigitalOcean)*  
+- Architected cloud infrastructure (**Docker/GitHub Actions**), slashing deployment time by 40%.  
+- Processed **100+ daily alerts** with 95% accuracy.  
+
+*(Explore more in [Repositories ↓](#))*  
+
+---
+
+## 📚 **Education**  
+- **MSc ICT Engineering** – Politecnico di Torino  
+- **BSc Computer Engineering** – Jahrom University  
+
+---
+
+## 📬 **Let’s Connect!**  
+- [LinkedIn](https://linkedin.com/in/rezathrili)  
+- [Email](mailto:taheri.reza94@gmail.com)  
+- [Portfolio](#) *(optional link)*  
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=rezathrili.rezathrili) *(optional)*  
